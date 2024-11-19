@@ -8,7 +8,7 @@
 ``pip install pycryptodome``\
 \
 **Jalankan:**\
--python universal_encryption.py\
+```python universal_encryption.py```\
 \
 **Ikuti Menu:**\
 -Pilih jenis enkripsi/dekripsi dan masukkan data sesuai petunjuk.\
