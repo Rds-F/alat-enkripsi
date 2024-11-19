@@ -11,4 +11,7 @@
 ```python universal_encryption.py```\
 \
 **Ikuti Menu:**\
--Pilih jenis enkripsi/dekripsi dan masukkan data sesuai petunjuk.
+-Pilih jenis enkripsi/dekripsi dan masukkan data sesuai petunjuk.\
+\
+\
+**NOTE: Untuk opsi 6 sampai 9 belum bisa**
